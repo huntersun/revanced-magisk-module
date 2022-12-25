@@ -1,27 +1,20 @@
-CLI: revanced-cli-2.17.0-all.jar  
-Integrations: app-release-unsigned-v0.84.0.apk  
-Patches: revanced-patches-2.144.0.jar  
+CLI: revanced-cli-2.18.2-all.jar  
+Integrations: app-release-unsigned-v0.86.1.apk  
+Patches: revanced-patches-2.147.0.jar  
 
-### [2.144.0](https://github.com/revanced/revanced-patches/compare/v2.143.0...v2.144.0) (2022-12-15)
-
-
+### [2.147.0](https://github.com/revanced/revanced-patches/compare/v2.146.0...v2.147.0) (2022-12-21)
 ### Features
-
-* **citra:** add compatibility for canary package ([#1256](https://github.com/revanced/revanced-patches/issues/1256)) ([42ec021](https://github.com/revanced/revanced-patches/commit/42ec0218d829ea15759f83562d24588ce97cb646))
-* link packages to Google PlayStore ([#1272](https://github.com/revanced/revanced-patches/issues/1272)) ([97892e0](https://github.com/revanced/revanced-patches/commit/97892e01044c74916375aeebcc094d3304e14f4e))
-
-
-
+* **youtube/return-youtube-dislike:** debug connection statistics, toast on error, high priority background threads ([#1320](https://github.com/revanced/revanced-patches/issues/1320)) ([30273a9](https://github.com/revanced/revanced-patches/commit/30273a9bbdd40453baeb09f26ac9d218569a3e71))
 
   
 **App Versions:**  
-TikTok: 27.0.3  
-YouTube: 17.45.36  
-Twitter: 9.68.1-release.0  
-Music (arm64-v8a): 5.34.51  
-Twitch: 14.3.2  
+Music (arm-v7a): 5.36.51  
+YouTube: 17.49.37  
+Music (arm64-v8a): 5.36.51  
+Twitter: 9.69.1-release.0  
 Reddit: 2022.45.0  
-Music (arm-v7a): 5.34.51  
+Twitch: 14.3.2  
+Tiktok: 27.2.5  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
