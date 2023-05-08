@@ -1,4 +1,4 @@
-CLI: revanced-cli-2.21.0-all.jar  
+CLI: revanced-cli-2.22.0-all.jar  
 Integrations: revanced-integrations-0.107.0.apk  
 Patches: revanced-patches-2.173.0.jar  
 
@@ -16,7 +16,7 @@ Patches: revanced-patches-2.173.0.jar
 YouTube: 18.16.37  
 Music (arm64-v8a): 5.39.52  
 Music (arm-v7a): 5.39.52  
-Twitter: 9.86.0-release.0  
+Twitter: 9.87.0-release.0  
 Reddit: 2023.12.0  
 Twitch: 14.6.1  
 TikTok: 27.8.3  
