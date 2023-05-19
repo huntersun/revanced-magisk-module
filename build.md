@@ -3,7 +3,7 @@ YouTube-Extended: 18.17.43
 Music-arm64: 5.39.52  
 Music-arm: 5.39.52  
 Twitch: 14.6.1  
-Twitter: 9.88.0-release.0  
+Twitter: 9.89.0-release.1  
 TikTok: 27.8.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
@@ -13,28 +13,26 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to 
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-2.22.0-all.jar  
-Integrations: inotia00/revanced-integrations-0.107.8.apk  
-Patches: inotia00/revanced-patches-2.173.8.jar  
+Integrations: inotia00/revanced-integrations-0.107.10.apk  
+Patches: inotia00/revanced-patches-2.173.10.jar  
 
 YouTube
 ==
-- fix(youtube/hide-flyout-panel): hide all flyout panel components in fullscreen under certain circumstances
-- fix(youtube/hide-general-ads): crash or force close due to incorrect class path
-- fix(youtube/hide-mix-playlists): sometimes unintended layouts are hidden
-- fix(youtube/spoof-app-version): restore watch history preview
+- feat(youtube/default-video-quality): rollback to previous commit
+- feat(youtube/hide-general-ads): added some exceptions
+- feat(youtube/hide-seekbar): updated patch description https://github.com/inotia00/ReVanced_Extended/issues/1013
+- fix(youtube/protobuf-spoof): playing a clip will play the video from the start https://github.com/inotia00/ReVanced_Extended/issues/999
+- fix(youtube/protobuf-spoof): subtitles appear at top when you watch related shorts https://github.com/inotia00/ReVanced_Extended/issues/1011
+- fix(youtube/sponsorblock): not reflected in the patch information
 - feat(youtube/translations): update translation
-`French`, `Greek`, `Italian`, `Japanese`, `Spanish`, `Vietnamese`
+`Chinese Simplified`, `Greek`, `Indonesian`, `Italian`, `Japanese`, `Russian`, `Spanish`, `Vietnamese`
 
 
 YouTube Music
 ==
+- feat(music/hide-new-playlist-button): change patch name https://github.com/inotia00/ReVanced_Extended/issues/983
 - feat(music/translations): update translation
-`Greek`
-
-
-ETC
-==
-- add support YouTube v18.17.43
+`Chinese Simplified`
 
 
 ※ Compatible ReVanced Manager: v1.1.0
