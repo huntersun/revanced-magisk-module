@@ -2,8 +2,8 @@ YouTube: 18.19.35
 YouTube-Extended: 18.17.43  
 Music (arm64-v8a): 6.08.50  
 Music (arm-v7a): 6.08.50  
-Music-Extended (arm-v7a): 6.08.50  
 Music-Extended (arm64-v8a): 6.08.50  
+Music-Extended (arm-v7a): 6.08.50  
 Twitter: 9.95.0-release.0  
 Twitch: 15.4.1  
 TikTok: 30.2.2  
