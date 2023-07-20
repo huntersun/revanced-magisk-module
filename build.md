@@ -1,10 +1,10 @@
 YouTube: 18.23.35  
 YouTube-Extended: 18.25.40  
 Music (arm64-v8a): 6.11.52  
-Twitter: 9.71.0-release.0  
 Music-Extended (arm64-v8a): 6.11.52  
+Twitter: 9.98.0-release.0  
 Twitch: 15.4.1  
-TikTok: 30.5.2  
+TikTok: 30.5.3  
 Reddit: 2023.28.0  
 Messenger: 418.0.0.11.71  
 
