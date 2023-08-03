@@ -1,6 +1,6 @@
 {
-  "version": "v6.10.51",
-  "versionCode": 30,
-  "zipUrl": "https://github.com/huntersun/revanced-magisk-module/releases/download/30/music-revanced-extended-magisk-v6.10.51-arm-v7a.zip",
+  "version": "v6.13.52",
+  "versionCode": 34,
+  "zipUrl": "https://github.com/huntersun/revanced-magisk-module/releases/download/34/music-revanced-extended-magisk-v6.13.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/huntersun/revanced-magisk-module/update/build.md"
 }
