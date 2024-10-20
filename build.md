@@ -1,3 +1,6 @@
+YouTube: 19.34.42  
+Music (arm64-v8a): 7.23.51  
+Music (arm-v7a): 7.23.51  
 Music-Extended (arm64-v8a): 7.16.53  
 Music-Extended (arm-v7a): 7.16.53  
 YouTube-Extended: 19.16.39  
@@ -10,7 +13,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 CLI: inotia00/revanced-cli-4.6.2-all.jar  
 Integrations: inotia00/revanced-integrations-1.14.2.apk  
 Patches: inotia00/revanced-patches-4.14.2.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.14.2)  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.14.2)
 
-Skipped:  
-Patches: ReVanced/revanced-patches-4.16.0.jar    
+CLI: j-hc/revanced-cli-4.6.0-all.jar  
+Integrations: ReVanced/revanced-integrations-1.16.0.apk  
+Patches: ReVanced/revanced-patches-4.17.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.17.0)  
