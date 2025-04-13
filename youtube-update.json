@@ -1,6 +1,6 @@
 {
-  "version": "v20.07.39 (patches: 5.19.0)",
-  "versionCode": 24,
-  "zipUrl": "https://github.com/huntersun/revanced-magisk-module/releases/download/24/youtube-revanced-magisk-v20.07.39-all.zip",
+  "version": "v20.07.39 (patches: 5.19.1)",
+  "versionCode": 25,
+  "zipUrl": "https://github.com/huntersun/revanced-magisk-module/releases/download/25/youtube-revanced-magisk-v20.07.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/huntersun/revanced-magisk-module/update/build.md"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 5.19.0)",
-  "versionCode": 24,
-  "zipUrl": "https://github.com/huntersun/revanced-magisk-module/releases/download/24/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches: 5.19.1)",
+  "versionCode": 25,
+  "zipUrl": "https://github.com/huntersun/revanced-magisk-module/releases/download/25/music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/huntersun/revanced-magisk-module/update/build.md"
 }
