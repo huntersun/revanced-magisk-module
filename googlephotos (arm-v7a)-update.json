@@ -1,6 +1,6 @@
 {
-  "version": "v7.31.0.764984055 (patches: 5.26.0)",
-  "versionCode": 33,
-  "zipUrl": "https://github.com/huntersun/revanced-magisk-module/releases/download/33/googlephotos-revanced-magisk-v7.31.0.764984055-arm-v7a.zip",
+  "version": "v7.32.0.765953717 (patches: 5.27.0)",
+  "versionCode": 34,
+  "zipUrl": "https://github.com/huntersun/revanced-magisk-module/releases/download/34/googlephotos-revanced-magisk-v7.32.0.765953717-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/huntersun/revanced-magisk-module/update/build.md"
 }
